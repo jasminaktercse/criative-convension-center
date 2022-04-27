@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ 
+.my-carousel{
+    height: 550px; 
+}
+.fa-check{
+    background-color: #b3abf359;
+}
+.bg-light-danger{
+    background-color: rgba(242, 160, 175, 0.1)!important;
+}
+.active-package{
+    border-radius: 20px;
+}
+
+.badge{
+    top: -10px;
+    right: 15px;
+}
+.fa-apple{
+    font-size: 57px;
+    margin-left: 5px;
+}
+.toast{
+    width: 230px!important;
+    border-left: 5px solid rgb(137, 137, 235)!important;
+    position: fixed;
+    top: 50%;
+    right: 0;
+}
